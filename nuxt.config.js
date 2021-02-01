@@ -3,6 +3,9 @@ import colors from 'vuetify/es5/util/colors'
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
+  generate: {
+    fallback: true,
+  },
   router: {
     base: '/nuxt-vuetify/',
   },
