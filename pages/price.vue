@@ -7,6 +7,7 @@
           <small>
             <em>&mdash;</em>
           </small>
+          <img src="~/assets/img/mount3.jpg" />
         </footer>
       </blockquote>
     </v-col>

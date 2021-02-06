@@ -135,4 +135,7 @@ export default {
   /* background: red; */
   padding: 0 0 0 12rem;
 }
+img {
+  max-width: 250px;
+}
 </style>
