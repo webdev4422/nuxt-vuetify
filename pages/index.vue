@@ -8,6 +8,7 @@
         <v-card-title class="headline">
           adding new features
 this is dev branch
+adding some
         </v-card-title>
         <v-card-text>
           <p>
