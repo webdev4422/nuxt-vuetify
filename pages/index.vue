@@ -6,7 +6,7 @@
       </div>
       <v-card>
         <v-card-title class="headline">
-123
+GREETINGS MY FRIEND!
         </v-card-title>
         <v-card-text>
           <p>
