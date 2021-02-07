@@ -6,8 +6,7 @@
       </div>
       <v-card>
         <v-card-title class="headline">
-test
-test2
+new
         </v-card-title>
         <v-card-text>
           <p>
