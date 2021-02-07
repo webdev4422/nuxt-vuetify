@@ -7,6 +7,7 @@
       <v-card>
         <v-card-title class="headline">
 test
+test2
         </v-card-title>
         <v-card-text>
           <p>
