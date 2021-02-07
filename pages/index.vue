@@ -5,7 +5,9 @@
         <logo />
       </div>
       <v-card>
-        <v-card-title class="headline"> testing new feature here </v-card-title>
+        <v-card-title class="headline">
+          test
+        </v-card-title>
         <v-card-text>
           <p>Vuetify is a progressive Material Design component framework for Vue.js. It was designed to empower developers to create amazing applications.</p>
           <p>
