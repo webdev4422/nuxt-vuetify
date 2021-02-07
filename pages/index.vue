@@ -6,10 +6,14 @@
       </div>
       <v-card>
         <v-card-title class="headline">
+<<<<<<< HEAD
           adding new features
 this is main branch 
 add more
 and more
+=======
+dev branch
+>>>>>>> dev
         </v-card-title>
         <v-card-text>
           <p>
