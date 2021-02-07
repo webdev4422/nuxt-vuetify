@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/location", {data:[{}],fetch:[],mutations:void 0});
