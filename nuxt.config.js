@@ -20,16 +20,6 @@ export default {
       { hid: 'description', name: 'description', content: '' },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
-    script: [
-      {
-        src: 'https://www.googletagmanager.com/gtag/js?id=G-KN81G3C9ZT',
-        async: true,
-      },
-      {
-        src: 'gtag.js',
-        type: 'text/javascript',
-      },
-    ],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
