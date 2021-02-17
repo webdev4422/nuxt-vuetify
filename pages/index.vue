@@ -6,7 +6,7 @@
       </div>
       <v-card>
         <v-card-title class="headline">
-GREETINGS MY FRIEND! test
+GREETINGS MY FRIEND! test test
         </v-card-title>
         <v-card-text>
           <p>
