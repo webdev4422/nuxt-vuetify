@@ -8,6 +8,7 @@
     "start": "nuxt start",
     "gen": "nuxt generate",
     "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup",
+	"deploy fb": "firebase deploy",
 	"deploy prod": "push-dir --dir=dist --branch=main --remote=prod --cleanup",
 	"deploy gh": "nuxt generate && gh-pages -d dist",
     "merge": "git co main && git merge --no-ff --strategy-option theirs -m \"Merge 'dev' into 'main'\" dev && git co dev"
