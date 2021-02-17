@@ -6,17 +6,19 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate",
+    "gen": "nuxt generate",
+	"deploy gh": "nuxt generate && gh-pages -d dist",
     "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup",
-	"merge": "git co main && git merge --no-ff --strategy-option theirs -m \"Merge 'dev' into 'main'\" dev && git co dev"
+    "merge": "git co main && git merge --no-ff --strategy-option theirs -m \"Merge 'dev' into 'main'\" dev && git co dev"
   },
   "dependencies": {
     "core-js": "^3.8.3",
-    "gh-pages": "^3.1.0",
     "nuxt": "^2.14.12"
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.11.3",
+    "firebase-tools": "^9.4.0",
+    "gh-pages": "^3.1.0",
     "push-dir": "^0.4.1"
   }
 }
