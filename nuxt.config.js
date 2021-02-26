@@ -38,7 +38,12 @@ export default {
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: ['@nuxtjs/robots', '@nuxtjs/sitemap'],
+  modules: ['@nuxtjs/google-gtag', '@nuxtjs/robots', '@nuxtjs/sitemap'],
+
+  'google-gtag': {
+    id: 'GTM-M65FF6P',
+  },
+
   sitemap: {
     hostname: 'https://wonderful-haibt-34f8e3.netlify.app',
   },
