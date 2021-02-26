@@ -38,7 +38,10 @@ export default {
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: [],
+  modules: ['@nuxtjs/robots', '@nuxtjs/sitemap'],
+  sitemap: {
+    hostname: 'https://wonderful-haibt-34f8e3.netlify.app',
+  },
 
   // Vuetify module configuration: https://go.nuxtjs.dev/config-vuetify
   vuetify: {
