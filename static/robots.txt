@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wonderful-haibt-34f8e3.netlify.app/sitemap.xml
+
