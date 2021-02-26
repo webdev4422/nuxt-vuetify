@@ -38,9 +38,9 @@ export default {
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: ['@nuxtjs/google-gtag', '@nuxtjs/robots', '@nuxtjs/sitemap'],
+  modules: ['@nuxtjs/gtm', '@nuxtjs/robots', '@nuxtjs/sitemap'],
 
-  'google-gtag': {
+  gtm: {
     id: 'GTM-M65FF6P',
   },
 
