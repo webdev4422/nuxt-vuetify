@@ -20,6 +20,7 @@
     "nuxt": "^2.14.12"
   },
   "devDependencies": {
+    "@nuxtjs/pwa": "^3.3.5",
     "@nuxtjs/sitemap": "^2.4.0",
     "@nuxtjs/vuetify": "^1.11.3",
     "firebase-tools": "^9.4.0",
